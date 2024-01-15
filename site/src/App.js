@@ -1,4 +1,4 @@
-import './App.css';
+// import './App.css';
 import React, {Fragment} from 'react';
 
 import InputTodo from './components/InputTodo';
